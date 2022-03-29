@@ -1,0 +1,16 @@
+{
+    "name": "nexter",
+    "version": "1.0.0",
+    "description": "project for studying css concepts and especially css grid",
+    
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html --dist-dir ./dist"
+    },
+    "author": "julio villalvazo",
+    "license": "ISC",
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.4.0",
+        "parcel": "^2.4.0"
+    }
+}
